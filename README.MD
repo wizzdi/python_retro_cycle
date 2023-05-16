@@ -1,0 +1,1 @@
+retro_cycle.py handle Java's (Jackson Style references)[https://fasterxml.github.io/jackson-annotations/javadoc/2.8/com/fasterxml/jackson/annotation/JsonIdentityReference.html]
